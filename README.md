@@ -10,7 +10,7 @@
 
 🌐Технологический стек:
 
-- React.js
+- ![React.js](https://simpleicons.org/icons/react.svg)
 - HTML5
 - JS
 - GIT
