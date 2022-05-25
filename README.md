@@ -17,7 +17,7 @@
   <li>CSS</li> 
   <li>Node.js</li> 
 <ul>
-<div id="info">
+<div>
   
 <ul>
 Как со мной связаться:
