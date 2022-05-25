@@ -17,7 +17,6 @@
   <li>CSS</li> 
   <li>Node.js</li> 
 <ul>
-<div>
   
 <ul>
 Как со мной связаться:
@@ -25,4 +24,4 @@
   <li>Email: gocha.workout@gmail.com</li>    
   <li>Tg: @Gochka</li>
 </ul>
-</div>
+
