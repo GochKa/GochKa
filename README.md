@@ -16,8 +16,12 @@
 - GIT
 - CSS
 - Node.js
+<div id="info">
+<ul>
+  <p>Как со мной связаться:</p>
 
-Как со мной связаться:
-
-- Email: gocha.workout@gmail.com
-- Tg: @Gochka
+<li>- Email: gocha.workout@gmail.com</li>    
+<li>- Tg: @Gochka</li>
+</ul>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+</div>
