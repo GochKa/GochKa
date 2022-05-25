@@ -17,9 +17,6 @@
 - CSS
 - Node.js
 
-  <div align="right">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif">
-  </div>
 <div id="info">
 <ul>
   <p>Как со мной связаться:</p>
@@ -27,5 +24,7 @@
 <li>- Email: gocha.workout@gmail.com</li>    
 <li>- Tg: @Gochka</li>
 </ul>
-
+  <div align="right">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif">
+  </div>
 </div>
