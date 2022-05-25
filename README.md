@@ -20,9 +20,9 @@
 <div id="info">
   
 <ul>
-  <p>Как со мной связаться:</p>
+Как со мной связаться:
 
-<li>Email: gocha.workout@gmail.com</li>    
-<li>Tg: @Gochka</li>
+  <li>Email: gocha.workout@gmail.com</li>    
+  <li>Tg: @Gochka</li>
 </ul>
 </div>
