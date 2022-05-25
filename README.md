@@ -9,9 +9,8 @@
 
 
 🌐Технологический стек:
-<div height="32">
-- ![React.js](https://simpleicons.org/icons/react.svg)
-</div>
+
+- React.js
 - HTML5
 - JS
 - GIT
