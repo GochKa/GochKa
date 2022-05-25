@@ -25,6 +25,6 @@
 <li>- Tg: @Gochka</li>
 </ul>
   <div align="right">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif">
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
   </div>
 </div>
