@@ -24,7 +24,4 @@
 <li>- Email: gocha.workout@gmail.com</li>    
 <li>- Tg: @Gochka</li>
 </ul>
-  <div align="right">
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
-  </div>
 </div>
