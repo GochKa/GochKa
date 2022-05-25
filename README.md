@@ -10,18 +10,19 @@
 <ul>
 🌐Технологический стек:
 
-  <li>- React.js</li> 
-  <li>- HTML5</li> 
-  <li>- JS</li> 
-  <li>- GIT</li> 
-  <li>- CSS</li> 
-  <li>- Node.js</li> 
+  <li>React.js</li> 
+  <li>HTML5</li> 
+  <li>JS</li> 
+  <li>GIT</li> 
+  <li>CSS</li> 
+  <li>Node.js</li> 
 <ul>
 <div id="info">
+  
 <ul>
   <p>Как со мной связаться:</p>
 
-<li>- Email: gocha.workout@gmail.com</li>    
-<li>- Tg: @Gochka</li>
+<li>Email: gocha.workout@gmail.com</li>    
+<li>Tg: @Gochka</li>
 </ul>
 </div>
