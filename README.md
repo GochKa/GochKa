@@ -19,10 +19,8 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300" height="300"/>
 
+
 :fire: Статистика:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GochKa&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GochKa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
