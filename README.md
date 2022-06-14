@@ -17,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
 <img src="https://yt3.ggpht.com/a/AATXAJz_vqEkKj_XIPmcTOm6zYcrlz4ibfQsTyhJ7jUSuw=s900-c-k-c0xffffffff-no-rj-mo" alt="Postman" width="30" height="30"/>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300" height="300"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="300" height="300"/>
 
 
 :fire: Статистика:
